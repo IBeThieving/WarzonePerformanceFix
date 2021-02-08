@@ -11,5 +11,7 @@ GPU.
 
 In addition to this by default Warzone limits the amount of VRAM (graphics card memory) that the game can use to 65%-85% this application changes that to be able to use 100% of your available graphics card memory.
 
+Download: https://github.com/IBeThieving/WarzonePerformanceFix/releases/tag/v1
+
 The application is signed using a valid code sign certifictate check out the virus total here or alternatively build the application yourself.
 https://www.virustotal.com/gui/file/cf4929d350e6425e40ee12c3e754c16f6d4917aecdfb2f5ea42b2c3cc599c4b1/detection
