@@ -1,5 +1,6 @@
 # Warzone Performance Fix
 A simple CLI application to improve performance in warzone.
+Improves FPS and removes stuttering.
 
 How does it work?
 
