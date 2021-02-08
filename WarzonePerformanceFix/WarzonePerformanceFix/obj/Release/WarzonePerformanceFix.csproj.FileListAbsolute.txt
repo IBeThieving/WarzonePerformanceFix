@@ -1,7 +1,0 @@
-C:\Users\delaney\source\repos\WarzonePerformanceFix\WarzonePerformanceFix\bin\Release\WarzonePerformanceFix.exe.config
-C:\Users\delaney\source\repos\WarzonePerformanceFix\WarzonePerformanceFix\bin\Release\WarzonePerformanceFix.exe
-C:\Users\delaney\source\repos\WarzonePerformanceFix\WarzonePerformanceFix\bin\Release\WarzonePerformanceFix.pdb
-C:\Users\delaney\source\repos\WarzonePerformanceFix\WarzonePerformanceFix\obj\Release\WarzonePerformanceFix.csproj.CoreCompileInputs.cache
-C:\Users\delaney\source\repos\WarzonePerformanceFix\WarzonePerformanceFix\obj\Release\WarzonePerformanceFix.exe
-C:\Users\delaney\source\repos\WarzonePerformanceFix\WarzonePerformanceFix\obj\Release\WarzonePerformanceFix.pdb
-C:\Users\delaney\source\repos\WarzonePerformanceFix\WarzonePerformanceFix\obj\Release\WarzonePerformanceFix.csprojAssemblyReference.cache
